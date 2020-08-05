@@ -1,0 +1,337 @@
+@media(min-width:320px) and (max-width:575px) {
+
+    /*navbar part start*/
+
+    nav button:focus {
+        outline: 0;
+    }
+
+    nav button i {
+        color: #fff;
+        border-radius: 5px;
+        background: #2f802d;
+        width: 40px;
+        height: 40px;
+        line-height: 40px !important;
+        text-align: center;
+    }
+
+    nav ul {
+        background: #222222;
+        text-align: center;
+
+    }
+
+    .navbar-brand {
+        padding-left: 10px;
+    }
+
+    nav ul {
+        margin-top: 16px;
+    }
+
+    nav ul li {
+        margin-left: 0px !important;
+    }
+
+    nav .logo {
+        top: 7px !important;
+        left: 24px !important;
+    }
+
+    nav .logo img {
+        width: 86px !important;
+        height: 56px !important;
+    }
+
+    /*navbar part end*/
+
+    /*banner part start*/
+
+    #banner-part .banner .overlay h3 {
+        width: 285px !important;
+        height: 96px !important;
+        font-size: 35px !important;
+    }
+
+    /*banner part end*/
+
+    /*news-part start*/
+
+    #news-part .text h3 {
+        margin-top: 50px;
+        margin-left: 59px !important;
+    }
+
+    #news-part ul {
+        top: 91% !important;
+        right: 9px !important;
+    }
+
+    /*news-part end*/
+
+    /*footer-part start*/
+
+    #footer .copy {
+        margin-top: 64px !important;
+        text-align: center;
+    }
+
+    #footer .image {
+        text-align: center;
+        margin-top: 96px !important;
+    }
+
+    #footer ul {
+        padding-top: 32px !important;
+
+    }
+
+    #footer .txt {
+        margin-top: 87px !important;
+        margin-left: 40% !important;
+    }
+
+    #footer .icon {
+        margin-top: 10px;
+    }
+
+
+    /*footer-part end*/
+
+}
+
+@media(min-width:576px) and (max-width:767px) {
+
+    /*navbar part start*/
+
+    nav button:focus {
+        outline: 0;
+    }
+
+    nav button i {
+        color: #fff;
+        border-radius: 5px;
+        background: #2f802d;
+        width: 40px;
+        height: 40px;
+        line-height: 40px !important;
+        text-align: center;
+    }
+
+    nav ul {
+        background: #222222;
+        text-align: center;
+
+    }
+
+    .navbar-brand {
+        padding-left: 10px;
+    }
+
+    nav ul {
+        margin-top: 16px;
+    }
+
+    nav ul li {
+        margin-left: 0px !important;
+    }
+
+    nav .logo {
+        top: 7px !important;
+        left: 24px !important;
+    }
+
+    nav .logo img {
+        width: 86px !important;
+        height: 56px !important;
+    }
+
+    /*navbar part end*/
+
+    /*banner part start*/
+
+    #banner-part .banner .overlay h3 {
+        width: 285px !important;
+        height: 96px !important;
+        font-size: 35px !important;
+    }
+
+    /*banner part end*/
+
+    /*news-part start*/
+    #news-part .text p {
+        width:427px !important;
+        height: 407px !important;
+        text-align: center;
+    }
+
+    #news-part .text h3 {
+        margin-top: 50px;
+        margin-left: 59px !important;
+    }
+
+    #news-part ul {
+        top: 51% c;
+        right: 9px !important;
+    }
+    #news-part .txt{
+        margin-left: 304px;
+    }
+    /*news-part end*/
+
+    /*footer-part start*/
+
+    #footer .copy {
+        margin-top: 64px !important;
+        text-align: center;
+    }
+
+    #footer .image {
+        text-align: center;
+        margin-top: 96px !important;
+    }
+
+    #footer ul {
+        padding-top: 32px !important;
+
+    }
+
+    #footer .txt {
+        margin-top: 87px !important;
+        margin-left: 40% !important;
+
+
+    }
+
+    #footer .icon {
+        margin-top: 10px;
+    }
+
+
+    /*footer-part end*/
+
+
+}
+
+@media(min-width:768px) and (max-width:991px) {
+    /*navbar part start*/
+
+    nav button:focus {
+        outline: 0;
+    }
+
+    nav button i {
+        color: #fff;
+        border-radius: 5px;
+        background: #2f802d;
+        width: 40px;
+        height: 40px;
+        line-height: 40px !important;
+        text-align: center;
+    }
+
+    nav ul {
+        background: #222222;
+        text-align: center;
+
+    }
+
+    .navbar-brand {
+        padding-left: 10px;
+    }
+
+    nav ul {
+        margin-top: 16px;
+    }
+
+    nav ul li {
+        margin-left: 0px !important;
+    }
+
+    nav .logo {
+        top: 7px !important;
+        left: 24px !important;
+    }
+
+    nav .logo img {
+        width: 86px !important;
+        height: 56px !important;
+    }
+
+    /*navbar part end*/
+
+    /*banner part start*/
+
+    #banner-part .banner .overlay h3 {
+        width: 285px !important;
+        height: 96px !important;
+        font-size: 35px !important;
+    }
+
+    /*banner part end*/
+
+    /*news-part start*/
+    #news-part .text p {
+        width:427px !important;
+        height: 407px !important;
+        text-align: center;
+    }
+
+    #news-part .text h3 {
+        margin-top: 50px;
+        margin-left: 59px !important;
+    }
+
+    #news-part ul {
+        top: 51% c;
+        right: 9px !important;
+    }
+    #news-part .txt{
+        margin-left: 304px;
+    }
+    /*news-part end*/
+
+    /*footer-part start*/
+
+    #footer .copy {
+        margin-top: 64px !important;
+        text-align: center;
+    }
+
+    #footer .image {
+        text-align: center;
+        margin-top: 96px !important;
+    }
+
+    #footer ul {
+        padding-top: 32px !important;
+
+    }
+
+    #footer .txt {
+        margin-top: 87px !important;
+        margin-left: 40% !important;
+
+
+    }
+
+    #footer .icon {
+        margin-top: 10px;
+    }
+
+
+    /*footer-part end*/
+
+}
+@media(min-width:992px) and (max-width:1199px) {
+    
+
+    
+    
+
+    
+}
+
+
+
